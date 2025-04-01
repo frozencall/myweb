@@ -2,7 +2,6 @@
 <html>
 	<head>
 		<meta charset="utf-8" />
-		<title>웹페이지</title>
 	</head>
 	<body>
 		<h1>만우절</h1>
